@@ -271,7 +271,7 @@ export default class Order {
 
   /**
    *
-   * Retrieve a list of Orders
+   * Retrieve a single order by ID
    * @param locationId hashed location ID of the location
    * @param orderId order id to be retrieved,
    * @returns requested order
